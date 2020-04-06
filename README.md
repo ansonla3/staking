@@ -1,6 +1,13 @@
 # staking
 
-# How to use 
+
+## Install all the required dependencies
+
+``` bash
+yarn
+```
+
+## How to use 
 
 ```bash
 node claim.js 0 
