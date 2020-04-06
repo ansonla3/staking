@@ -19,7 +19,7 @@ Add `0` to the last argument if you are nominator.
 
 Add `1` to the last argument if you are validator.
 
-## Environment Variables
+## Environment variables
 
 `WS_ENDPOINT` -  Websocket endpoint used to communicate with the network (e.g. wss://kusama-rpc.polkadot.io/ or wss://cc3-5.kusama.network/)
 
