@@ -26,7 +26,7 @@ Add `1` to the last argument if you are validator.
 `MNEMONIC` - Your nominator/validator account (It also supports addFromSeed, free feel to change it for your need)
 
 
-## Ouput
+## Output
 
 ```bash
 node claim.js 1
