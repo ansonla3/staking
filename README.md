@@ -6,10 +6,11 @@
 node claim.js 0 
 ```
 
-By setting up the `claim.js` script to your daily routine script in your OS level, it helps you to claim the KSM payouts automatically.
+By setting up the `claim.js` to your daily routine / scheduler in the OS level, it helps you to claim the KSM payouts automatically.
 
-Add `0` to the last argument if you are a nominator.
-Add `1` to the last argument if you are a validator.
+Add `0` to the last argument if you are nominator.
+
+Add `1` to the last argument if you are validator.
 
 ## Environment Variables
 
