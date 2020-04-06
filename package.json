@@ -1,0 +1,28 @@
+{
+  "name": "staking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "claim.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ansonla3/staking.git"
+  },
+  "keywords": [
+    "KSM"
+  ],
+  "author": "Anson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ansonla3/staking/issues"
+  },
+  "homepage": "https://github.com/ansonla3/staking#readme",
+  "dependencies": {
+    "@polkadot/api": "1.10.0-beta.11",
+    "@polkadot/keyring": "^2.7.1",
+    "@polkadot/util": "^2.7.1",
+    "@polkadot/util-crypto": "^2.7.1"
+  }
+}
